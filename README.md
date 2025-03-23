@@ -39,10 +39,4 @@ This is a simple Todo application built with Next.js. It allows users to add, up
 ## 🛠️ Usage
 Simply start the development server and open `http://localhost:3000` in your browser. You can add new tasks, mark them as completed, or delete them.
 
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
-Feel free to contribute or suggest improvements! 😊
 
